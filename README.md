@@ -1,1 +1,1 @@
-printf readme.md
+print team task project
